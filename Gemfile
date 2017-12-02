@@ -49,5 +49,6 @@ group :development do
   gem 'spring'
 end
 group :production do
+  gem 'heroku'
   gem 'pg'
 end
